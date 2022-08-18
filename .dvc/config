@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = storage
+['remote "storage"']
+    url = ssh://guohui6@10.110.147.231:/home/guohui6/data/remote
